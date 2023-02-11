@@ -1,2 +1,2 @@
-# ahmed
-a simple tool used by our project to make animation possible with rust
+# Smiya
+A WIP rendering engine, with rust, im doing for fun
